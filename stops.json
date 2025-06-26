@@ -1,0 +1,23 @@
+[
+    {
+        "stopId": "durak001",
+        "name": "Atat\u00fcrk Lisesi Dura\u011f\u0131",
+        "lat": 39.6539,
+        "lng": 27.887,
+        "waitingCount": 3
+    },
+    {
+        "stopId": "durak002",
+        "name": "Alt\u0131eyl\u00fcl Belediye Dura\u011f\u0131",
+        "lat": 39.6495,
+        "lng": 27.8912,
+        "waitingCount": 1
+    },
+    {
+        "stopId": "durak003",
+        "name": "Bal\u0131kesir Gar Dura\u011f\u0131",
+        "lat": 39.6487,
+        "lng": 27.8935,
+        "waitingCount": 0
+    }
+]
